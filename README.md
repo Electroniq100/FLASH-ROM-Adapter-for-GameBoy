@@ -1,6 +1,6 @@
 # Mini version of SOP-32L FLASH to ROM Adapter for Game Boy Cartridges
 
-This is a modified version of the SOP-32L FLASH to ROM Adapter for Game Boy Cartridges, it will fit in any cartridges without any modifications of the top shell of the cartridge
+This is a modified version of the SOP-32L FLASH to ROM Adapter for Game Boy Cartridges, it will fit in any cartridges without any modifications of the top shell of your cartridges.
 
 ## Compatible Flash Memory Chips
 
