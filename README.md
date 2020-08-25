@@ -1,20 +1,12 @@
-# SOP-32L FLASH to ROM Adapter for Game Boy Cartridges
+# Mini version of SOP-32L FLASH to ROM Adapter for Game Boy Cartridges
 
-![Game-Boy-SOP-32-Flash-to-ROM-adapter-preview](http://www.jrodrigo.net/wp-content/uploads/2017/01/Screenshot-from-2017-01-28-15-09-31-e1485623180964.png)
+This is a modified version of the SOP-32L FLASH to ROM Adapter for Game Boy Cartridges, it will fit in any cartridges without any modifications of the top shell of the cartridge
 
----
+## Compatible Flash Memory Chips
 
-# TSOP-44L FLASH to ROM Adapter
-
-![Game-Boy-TSOP-44-Flash-to-ROM-adapter-preview](https://www.jrodrigo.net/wp-content/uploads/2018/12/game-boy-tsop-44-flash-to-rom-adapter.png)
-
-#### NOTE : This adaptar this pretty hard to solder. If you are new in soldering, I recommend to use the SOP32 adapter because is much more easy to solder and fix.
-
----
-
-## Compatible Flashes
-
-AM29F016@-#E* (2 MB) or AM29F032@-#E* (4 MB)
+AM29F032@-#E* (4 MB)
+or
+AM29F016@-#E* (2 MB) Please note that for TSOP-48 version you will need to remove the 8 NC pins on each corner to get access to the pads.
 ```
  @ = Manufactured process technology (None = 0.5 µm, B = 0.32 µm, D = 0.23 µm)
  # = any speeds are compatible (75,90,120,150)
