@@ -20,7 +20,6 @@ AM29F016@-#E* (2 MB) Please note that for TSOP-48 version you will need to remov
 ## [How To - Assembly Guide](http://www.jrodrigo.net/wiki/how-to-diy-a-gameboy-flash-cartridge-with-a-rom-adapter-board/)
 
 ## Where to buy :package:
--
 - [**OSHpark** (Mini Version SOP32 bare PCBs)](https://oshpark.com/shared_projects/QGnPTqav)
 
 ---
