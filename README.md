@@ -20,10 +20,8 @@ AM29F016@-#E* (2 MB) Please note that for TSOP-48 version you will need to remov
 ## [How To - Assembly Guide](http://www.jrodrigo.net/wiki/how-to-diy-a-gameboy-flash-cartridge-with-a-rom-adapter-board/)
 
 ## Where to buy :package:
-- [**Tindie** with optional presolded 2MB/4MB ROM](https://www.tindie.com/products/JRodrigo/flash-memory-adapter-for-some-game-boy-cartridges/)
-- [**OSHpark** (SOP32 bare PCBs only)](https://oshpark.com/shared_projects/5S5OQRXm)
-- [**OSHpark** (TSOP44 bare PCBs only)](https://oshpark.com/shared_projects/Ks4WbXlo)
-- [**PCBWay** (SOP32 bare PCBs only)](https://www.pcbway.com/project/shareproject/Flash_Memory_Adapter_for_Game_Boy.html)
+-
+- [**OSHpark** (Mini Version SOP32 bare PCBs)](https://oshpark.com/shared_projects/QGnPTqav)
 
 ---
 
